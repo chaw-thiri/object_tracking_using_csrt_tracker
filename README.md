@@ -1,4 +1,4 @@
-# What is CSRT? How does CSRT work and why is it better than other OpenCV built-in tracker?
+# What is CSRT? How does CSRT work and why is it better than other OpenCV built-in trackers?
 [See the ppt](https://github.com/chaw-thiri/object_tracking_using_csrt_tracker/blob/main/CSRT_tracker.pptx)
 # How was it modifiy to get better results
 There are multiple approaches available to modify the built-in API to be well-adjusted for multiple situations. Here I have demonstrated a couple of them (except the number 2) until the results satisfy me.
